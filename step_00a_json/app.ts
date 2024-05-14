@@ -24,7 +24,10 @@ console.log(person["isUser"]);
 //  square bracket 
 // java script scopes (w3 schools)
 // function scope n js
-// lexical scope in js (educative)
-// block scope in js 
+// lexical scope in js (educative) 
+// the ability for a function scope to access variables from the parent scope.
+// block scope in js
+// any thing express in curly bbrackets {} is called block scope. we cannot call block scope statement in function scope.
+// 
 // step_03a modules (panaverse)
 // step _03 modules ecma script
